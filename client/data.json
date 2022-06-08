@@ -1,120 +1,57 @@
 {
   "status": "success",
   "data": {
-    "latest_status": "delivered",
+    "latest_status": "out_for_delivery",
     "latest_time": null,
     "result": [
       {
-        "date": "1 Apr",
-        "time": "02:12 PM",
-        "status": "delivered",
-        "content": "Delivered",
-        "location": "Drop Point CDC TIONGEMAS 301 - JOHOR BAHRU"
-      },
-      {
-        "date": "1 Apr",
-        "time": "11:47 AM",
+        "date": "8 Jun",
+        "time": "12:08 PM",
         "status": "out_for_delivery",
-        "content": "Delivery",
-        "location": "Drop Point CDC TIONGEMAS 301 - JOHOR BAHRU"
+        "content": "Item out for delivery",
+        "location": "Pusat POS Laju Bandar Dato' Onn"
       },
       {
-        "date": "1 Apr",
-        "time": "10:46 AM",
+        "date": "7 Jun",
+        "time": "09:37 AM",
+        "status": "delivery_office",
+        "content": "Arrive at delivery facility at",
+        "location": "Pusat POS Laju Bandar Dato' Onn"
+      },
+      {
+        "date": "7 Jun",
+        "time": "02:06 AM",
         "status": "in_transit",
-        "content": "Inbound",
-        "location": "Drop Point CDC TIONGEMAS 301 - JOHOR BAHRU"
+        "content": "Consignment dispatch out from Transit Office",
+        "location": "HUB POS Laju Domestik KLIA"
       },
       {
-        "date": "1 Apr",
-        "time": "07:59 AM",
+        "date": "7 Jun",
+        "time": "01:07 AM",
         "status": "in_transit",
-        "content": "Load Truck - CDC TIONGEMAS 301",
-        "location": "Transit Center JHR GATEWAY - JOHOR BAHRU"
+        "content": "Consignment dispatch out from Transit Office",
+        "location": "HUB POS Laju Domestik KLIA"
       },
       {
-        "date": "1 Apr",
-        "time": "07:59 AM",
+        "date": "7 Jun",
+        "time": "01:04 AM",
         "status": "in_transit",
-        "content": "Outbound - CDC TIONGEMAS 301",
-        "location": "Transit Center JHR GATEWAY - JOHOR BAHRU"
+        "content": "Item processed",
+        "location": "HUB POS Laju Domestik KLIA"
       },
       {
-        "date": "1 Apr",
-        "time": "07:51 AM",
+        "date": "6 Jun",
+        "time": "03:05 PM",
         "status": "in_transit",
-        "content": "Outbound",
-        "location": "Transit Center JHR GATEWAY - JOHOR BAHRU"
+        "content": "Item dispatched out",
+        "location": "ECommerce Business Centre-eCBC"
       },
       {
-        "date": "1 Apr",
-        "time": "07:07 AM",
-        "status": "in_transit",
-        "content": "Inbound",
-        "location": "Transit Center JHR GATEWAY - JOHOR BAHRU"
-      },
-      {
-        "date": "31 Mar",
-        "time": "11:03 PM",
-        "status": "in_transit",
-        "content": "Load Truck - JHR_GATEWAY",
-        "location": "Transit Center KUL GATEWAY - SETIAWANGSA"
-      },
-      {
-        "date": "31 Mar",
-        "time": "11:03 PM",
-        "status": "in_transit",
-        "content": "Outbound - JHR_GATEWAY",
-        "location": "Transit Center KUL GATEWAY - SETIAWANGSA"
-      },
-      {
-        "date": "31 Mar",
-        "time": "07:18 PM",
-        "status": "in_transit",
-        "content": "Inbound",
-        "location": "Transit Center KUL GATEWAY - SETIAWANGSA"
-      },
-      {
-        "date": "31 Mar",
-        "time": "06:21 PM",
-        "status": "in_transit",
-        "content": "Outbound",
-        "location": "Transit Center DC CHAN SOW LIN 801 - BUKIT BINTANG"
-      },
-      {
-        "date": "31 Mar",
-        "time": "06:09 PM",
-        "status": "in_transit",
-        "content": "Outbound",
-        "location": "Transit Center DC CHAN SOW LIN 801 - BUKIT BINTANG"
-      },
-      {
-        "date": "31 Mar",
-        "time": "05:29 PM",
-        "status": "in_transit",
-        "content": "Inbound",
-        "location": "Transit Center DC CHAN SOW LIN 801 - BUKIT BINTANG"
-      },
-      {
-        "date": "31 Mar",
-        "time": "04:30 PM",
-        "status": "in_transit",
-        "content": "Inbound",
-        "location": "Transit Center DC CHAN SOW LIN 801 - BUKIT BINTANG"
-      },
-      {
-        "date": "31 Mar",
-        "time": "02:29 PM",
-        "status": "in_transit",
-        "content": "Outbound",
-        "location": "Drop Point DP DESA PANDAN 01 - BUKIT BINTANG"
-      },
-      {
-        "date": "31 Mar",
-        "time": "02:07 PM",
+        "date": "6 Jun",
+        "time": "11:32 AM",
         "status": "info_received",
-        "content": "Picked Up",
-        "location": "Drop Point DP DESA PANDAN 01 - BUKIT BINTANG"
+        "content": "Item picked up",
+        "location": "ECommerce Business Centre-eCBC"
       }
     ],
     "info": null,

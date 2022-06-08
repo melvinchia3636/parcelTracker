@@ -57,7 +57,7 @@ export default function App() {
           style={{
             width: "100%",
             padding: 24,
-            backgroundColor: colors[data.data.latest_status],
+            backgroundColor: colors[data.data.latest_status.replace(/_/g, "")],
             position: "relative",
             zIndex: 9999,
           }}
@@ -71,7 +71,7 @@ export default function App() {
               letterSpacing: 1.4,
             }}
           >
-            {data.data.latest_status.toUpperCase()}
+            {data.data.latest_status.replace(/_/g, ' ').toUpperCase()}
           </Text>
         </View>
         <View
